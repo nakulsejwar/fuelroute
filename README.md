@@ -31,44 +31,52 @@ Follow below steps to set up and run the project locally.
 ```bash
 git clone <your-repo-url>
 cd fuel-app
+```
 
 2️⃣ Create & Activate Virtual Environment
 On Windows:
+```bash
 python -m venv venv
 venv\Scripts\activate
-
+```
 On macOS/Linux:
+```bash
 python3 -m venv venv
 source venv/bin/activate
-
+```
 3️⃣ Install Requirements
+```bash
 pip install -r requirements.txt
-
+```
 4️⃣ Run Database Migrations
+```bash
 python manage.py migrate
-
+```
 5️⃣ Start the Development Server
+```bash
 python manage.py runserver
-
-
+```
 Server will start at:
+```bash
 👉 http://127.0.0.1:8000/
-
+```
 📁 Project Structure
+```bash
 fuel-app/
  ├─ fuel/          # Main app logic
  ├─ templates/     # HTML templates
  ├─ manage.py
  ├─ requirements.txt
  └─ README.md
-
+```
 📝 Environment Variables
 
 Create a .env file with required keys:
+```bash
 
-FUEL_PRICE_FILE=<path-to-fuel-prices-csv>
-# Add any API keys if required
-
+ORS_API_KEY=<your ors api key>
+FUEL_PRICE_FILE=fuel_prices.csv
+```
 🎯 Future Improvements
 
 Real-time fuel price updates
@@ -85,4 +93,4 @@ Feel free to open a PR or report issues.
 📬 Contact
 
 For questions or support:
-✉️ nakulsejwar02@gmail.com
+✉️ your-email@example.com
