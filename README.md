@@ -93,4 +93,4 @@ Feel free to open a PR or report issues.
 📬 Contact
 
 For questions or support:
-✉️ your-email@example.com
+✉️ nakulsejwar02@gmail.com
