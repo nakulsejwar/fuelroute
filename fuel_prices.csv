@@ -1,0 +1,16 @@
+station_id,name,lat,lng,price,city,state
+1,Shell - Manhattan,40.7580,-73.9855,3.89,New York,NY
+2,BP - Pennsylvania,41.2033,-77.1945,3.75,Jersey Shore,PA
+3,Sunoco - Ohio,41.4993,-81.6944,3.49,Cleveland,OH
+4,Speedway - Columbus,39.9612,-82.9988,3.45,Columbus,OH
+5,Shell - Indianapolis,39.7684,-86.1581,3.42,Indianapolis,IN
+6,Phillips 66 - St Louis,38.6270,-90.1994,3.51,St Louis,MO
+7,Conoco - Kansas City,39.0997,-94.5786,3.47,Kansas City,MO
+8,Caseys - Topeka,39.0473,-95.6752,3.40,Topeka,KS
+9,Sinclair - Denver,39.7392,-104.9903,3.58,Denver,CO
+10,Chevron - Colorado Springs,38.8339,-104.8214,3.55,Colorado Springs,CO
+11,Chevron - New Mexico,35.0844,-106.6504,3.39,Albuquerque,NM
+12,Shell - Arizona,33.4484,-112.0740,3.52,Phoenix,AZ
+13,76 - Los Angeles,34.0522,-118.2437,3.99,Los Angeles,CA
+14,Chevron - Bakersfield,35.3733,-119.0187,3.91,Bakersfield,CA
+15,Valero - Nevada,36.1699,-115.1398,3.84,Las Vegas,NV
